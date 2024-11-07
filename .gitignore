@@ -1,1 +1,6 @@
+## Remover ENV
  .env
+
+
+## Remover Modulos do NodeJs
+node_modules/
